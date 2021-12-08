@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&family=Nunito:ital,wght@0,400;0,700;1,400&family=Red+Hat+Display:wght@500;700;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    background-image: url(img/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: hsl(225,100%,94%);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.container {
+    background-color: white;
+    
+    
+}
+
+.text {
+    padding: 2rem;
+    
+}
+
